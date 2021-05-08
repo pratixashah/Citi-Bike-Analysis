@@ -17,3 +17,11 @@ Analysis based on data provided by City Bike:
   4. Analysis shows during this pandemic, Bike user prefer to go for the short term payment/commitment than Annual purchase.
 
 # 2. Bike Useage by Age:
+- It shows Bike useage distribution by Age.
+- Analysis:
+ 1. Bikers' age is ranging from 17 to 78 years.
+ 2. March 2019 - Bikers from different age used a City Bike services. The maximum bikers are from the age 32, 50 and 39. 
+ 3. March 2021 - Bikers from dirrerent age use has been decreased a lot. The maximum bikes are from the age 51.
+ 4. As per data, Numbers of bikers for all the ages has been reduced except bikers from the age 51 which has increased from 272 to 14K.
+
+# 3. Trip Duration(in Hrs.) by Age:
