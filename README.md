@@ -25,3 +25,10 @@ Analysis based on data provided by City Bike:
  4. As per data, Numbers of bikers for all the ages has been reduced except bikers from the age 51 which has increased from 272 to 14K.
 
 # 3. Trip Duration(in Hrs.) by Age:
+- It displays an Avereage Trip duration in Hours by Age.
+- Analysis:
+ 1. March 2019 - The average Trip duration varies from 0.06 hours to 0.8 hours. Maximun trip duration observed was 0.8 hours for 20 yers old bikers and the minimum trip duration observed was 0.06 hours for 68 years old.
+ 2. March 2021 - The average Trip duration varies from 0.04 hours to 2.6 hours. Maximun trip duration observed was 2.6 hours for 28 yers old bikers and the minimum trip duration observed was 0.04 hours for 19 years old.
+ 3. Analysis shows that trip duration has been increased during pandemic, as people prefer biking more than other activity/resource.
+
+
