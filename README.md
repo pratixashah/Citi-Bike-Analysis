@@ -4,6 +4,8 @@ Citi Bike is New York City’s bike share system, and the largest in the nation.
 
 Covid is changing the ways we get around cities. Governments are advising against the use of mass transit except for essential travel, and those who need to go out are increasingly opting to use more-personal forms of transportation, such as bicycles, scooters and their own two feet.
 
+Here provided the analysis for Citi Bikers' statistics between March - 2019 and March - 2021.
+
 **Resources:**
 - Resources/JC-201903-citibike-tripdata.csv
 - Resources/JC-202103-citibike-tripdata.csv
