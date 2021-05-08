@@ -9,20 +9,19 @@ Analysis based on data provided by City Bike:
 # 1. User Statistics:
 - There are two types of City Bikes
   1. Customer: 24-hour pass or 3-day pass user
-  2. Subsriber: Annual Member
+  2. Subscriber: Annual Member
 - Analysis:
-  1. March 2019 - Around 1K Customer and 22K Subsriber
-  2. March 2021 - Around 15K Customer and 1.7K Subsriber
-  3. As we can see from the numbers, there is a wide difference between numbers of Customer and Subsriber Cike Bikers.
+  1. March 2019 - Around 1K Customer and 22K Subscriber
+  2. March 2021 - Around 15K Customer and 1.7K Subscriber
+  3. As we can see from the numbers, there is a wide difference between numbers of Customer and Subscriber Cike Bikers.
   4. Analysis shows during this pandemic, Bike user prefer to go for the short term payment/commitment than Annual purchase.
 
 # 2. Bike Useage by Age:
-- It shows Bike useage distribution by Age.
+- It shows Bike useage distribution by Age. Bikers' age is ranging from 17 to 78 years.
 - Analysis:
- 1. Bikers' age is ranging from 17 to 78 years.
- 2. March 2019 - Bikers from different age used a City Bike services. The maximum bikers are from the age 32, 50 and 39. 
- 3. March 2021 - Bikers from dirrerent age use has been decreased a lot. The maximum bikes are from the age 51.
- 4. As per data, Numbers of bikers for all the ages has been reduced except bikers from the age 51 which has increased from 272 to 14K.
+ 1. March 2019 - Bikers from different age used a City Bike services. The maximum bikers are from the age 32, 50 and 39. 
+ 2. March 2021 - Bikers from dirrerent age use has been decreased a lot. The maximum bikes are from the age 51.
+ 3. As per data, Numbers of bikers for all the ages has been reduced except bikers from the age 51 which has increased from 272 to 14K.
 
 # 3. Trip Duration(in Hrs.) by Age:
 - It displays an Avereage Trip duration in Hours by Age.
@@ -30,5 +29,28 @@ Analysis based on data provided by City Bike:
  1. March 2019 - The average Trip duration varies from 0.06 hours to 0.8 hours. Maximun trip duration observed was 0.8 hours for 20 yers old bikers and the minimum trip duration observed was 0.06 hours for 68 years old.
  2. March 2021 - The average Trip duration varies from 0.04 hours to 2.6 hours. Maximun trip duration observed was 2.6 hours for 28 yers old bikers and the minimum trip duration observed was 0.04 hours for 19 years old.
  3. Analysis shows that trip duration has been increased during pandemic, as people prefer biking more than other activity/resource.
+
+# 4 Gender Statistics:
+- Here Gender is categorised into 3 category: Male, Female and unknown
+- This visualization shows number of trip by Gender and each gender further categorised into User Type (Customer or Subscriber)
+- Analysis:
+ 1. March 2019 - Male Biker's has highest numbers of Subscriber 17K.
+ 2. March 2021 - Unknown Gender has highest numbers of Customer 14K.
+ 3. During pandemic numbers of subscriber has been reduced a lot.
+
+# 5 Trip Duration(in Min.) by User Type:
+- It shows the Average Trip duration in minutes by user type
+- Analysis:
+ 1. March 2019 - The average Trip duration for Subscriber is only 7 minutes and for Customer 47 minutes
+ 2. March 2021 - The average Trip duration for Subscriber is only 16 minutes and for Customer 24 minutes
+ 3. Trip duration has been increase as people finds biking is good option in currunt situation.
+
+# 6 Bike Distribution per Station March - 2019:
+- It shows numbers of bikes per start station
+- It displays location point as per station size and gradient color scheme.
+
+# 7 Bike Distribution per Station March - 2021:
+- It shows numbers of bikes per start station
+- It displays location point as per station size and gradient color scheme.
 
 
